@@ -1,0 +1,23 @@
+/* Write your CSS code here */
+.profile-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  margin-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.profile-image {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 20px;
+}
+.profile-head {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+.profile-des {
+  font-size: 16px;
+}
